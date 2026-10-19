@@ -4,8 +4,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yash!;I+build+apps+with+Flutter+%F0%9F%93%B1;I+solve+problems+in+C%2B%2B+%26+Python+%E2%9A%A1;Always+learning%2C+always+shipping+%F0%9F%9A%80" alt="Typing SVG" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Yash-jar&label=Profile+views&color=7aa2f7&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Yash-jar?style=for-the-badge&logo=github&color=bb9af7&labelColor=1a1b27)
+![Flutter](https://img.shields.io/badge/Building-Flutter%20Apps-02569B?style=for-the-badge&logo=flutter&logoColor=white&labelColor=1a1b27)
+![C++](https://img.shields.io/badge/Solving-Problems%20in%20C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=1a1b27)
+![Open Source](https://img.shields.io/badge/Open%20to-Open%20Source-bb9af7?style=for-the-badge&logo=opensourceinitiative&logoColor=white&labelColor=1a1b27)
 
 </div>
 
@@ -19,6 +20,15 @@
 - 🌱 Currently sharpening my skills in system design and clean architecture
 - 🤝 Open to collaborating on open-source projects
 - 💬 Ask me about Flutter, competitive programming, or Git workflows
+- ⚡ Fun fact: I like turning a tricky algorithm into a clean, working app
+
+```cpp
+struct Yash {
+    string role = "Software Engineer";
+    vector<string> loves = {"Flutter", "C++", "Python", "Open Source"};
+    string motto = "Ship it, then make it better";
+};
+```
 
 ## 🛠️ Tech Stack
 
@@ -71,6 +81,24 @@
 <div align="center">
 
 [![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=Yash-jar&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=c0caf5)](https://github.com/Yash-jar)
+
+</div>
+
+## 💡 Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Yash--jar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash-jar)
+[![Codeforces](https://img.shields.io/badge/Codeforces-luciferyrsdev-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/luciferyrsdev)
+[![AtCoder](https://img.shields.io/badge/AtCoder-yashrajsingh78-000000?style=for-the-badge&logoColor=white)](https://atcoder.jp/users/yashrajsingh78)
 
 </div>
 
